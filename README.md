@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Requirements
 General
 Allowed editors: vi, vim, emacs
@@ -1235,3 +1236,6 @@ Repo:
 GitHub repository: monty
 Directory: bf
 File: 1003-mul.bf
+=======
+monty
+>>>>>>> b8c500a7870b7a61b834c814dd9443caf4774eed
